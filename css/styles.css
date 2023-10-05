@@ -1,0 +1,22 @@
+.container{
+justify-content: left;
+}
+img{
+    border-radius: 100px;
+}
+.testimonial{
+    height: 350px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    padding-left: 10px;
+    display: grid;
+}
+.social-proof{
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
